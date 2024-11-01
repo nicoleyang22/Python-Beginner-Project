@@ -4,8 +4,9 @@ This is a simple Python project about "Sleeping &amp; Occupations".
 ### Table of Contents
 1. [Project Description](#project-description)
 2. [Usage](#usage)
-3. [Contributors](#contributors)
-4. [Contact](#contact)
+3. [Conclusions](#conclusions)
+4. [Contributors](#contributors)
+5. [Contact](#contact)
 
 ### Project Descriptions
 SleepInc has provided you with an anonymized sleep and lifestyle metrics dataset for 374 individuals. This dataset contains average values for each person calculated over the past six months. The data is saved as sleep_health_data.csv.
@@ -24,11 +25,11 @@ Here’s how I used to run this project:
 
 ### Conclusions
 
-Occupation and Sleep:
+## Occupation and Sleep:
 
 The occupation with the lowest average sleep duration and sleep quality was both identified as "Sales Representative", which could indicate that people in sales-related roles experience more challenges with sleep, potentially due to factors like work-related stress, irregular hours, or lifestyle choices associated with this job.
 
-BMI and Sleep Disorders:
+## BMI and Sleep Disorders:
 
 BMI categories in relation to insomnia rates suggests a correlation between higher BMI and sleep disorders :
 Individuals in the "Normal" BMI category have a lower insomnia rate (4%)
