@@ -25,11 +25,11 @@ Here’s how I used to run this project:
 
 ### Conclusions
 
-## Occupation and Sleep:
+#### Occupation and Sleep:
 
 The occupation with the lowest average sleep duration and sleep quality was both identified as "Sales Representative", which could indicate that people in sales-related roles experience more challenges with sleep, potentially due to factors like work-related stress, irregular hours, or lifestyle choices associated with this job.
 
-## BMI and Sleep Disorders:
+#### BMI and Sleep Disorders:
 
 BMI categories in relation to insomnia rates suggests a correlation between higher BMI and sleep disorders :
 Individuals in the "Normal" BMI category have a lower insomnia rate (4%)
