@@ -32,11 +32,12 @@ The occupation with the lowest average sleep duration and sleep quality was both
 #### BMI and Sleep Disorders:
 
 The correlation between BMI categories and insomnia rates :
+
 Individuals in the "Normal" BMI category have a lower insomnia rate (4%)
 
 "Overweight" individuals have a slightly higher insomnia rate (43%)
 
-The "Obese" category shows the highest insomnia rate at 40%
+"Obese" category shows the highest insomnia rate at 40%
 
 
 It may indicate that higher BMI categories are more likely to experience insomnia, which could be due to factors such as poor physical health, lifestyle habits, or stress.
