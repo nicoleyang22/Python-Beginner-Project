@@ -14,10 +14,28 @@ The dataset includes 13 columns covering sleep duration, quality, disorders, exe
 ![image](https://github.com/user-attachments/assets/56a545d4-8c11-409a-a671-62e795ba2084)
 
 ### Usage
-This ETL pipeline processes app data from the Google Play Store dataset and loads it into an SQLite database. Here’s how to run and use the pipeline:
+Here’s how I used to run this project:
 
 1. **Data Extraction**: The script reads data from the `data/sleep_health_data.csv` file.
 2. **Data Transformation**: It cleans, filters, and processes the raw data for analysis.
+3. **Data Grouping and Aggregation** : using groupby() to calculate the mean of ('Sleep Duration','Quality of Sleep') which grouped by occupation and BMI category.
+4. **Sorting and Indexing** : using sort_values() and index[0] to extracted the occupation with the lowest average sleep duration and sleep quality.
+5. **Dictionary Storage** : stored the output of insomnia ratios for different categories in a dictionary, which looks more organizing and structuring.
+
+### Conclusions
+
+Occupation and Sleep:
+
+The occupation with the lowest average sleep duration and sleep quality was both identified as "Sales Representative", which could indicate that people in sales-related roles experience more challenges with sleep, potentially due to factors like work-related stress, irregular hours, or lifestyle choices associated with this job.
+
+BMI and Sleep Disorders:
+
+BMI categories in relation to insomnia rates suggests a correlation between higher BMI and sleep disorders :
+Individuals in the "Normal" BMI category have a lower insomnia rate (4%)
+"Overweight" individuals have a slightly higher insomnia rate (43%)
+The "Obese" category shows the highest insomnia rate at 40%
+
+It may indicate that higher BMI categories are more likely to experience insomnia, which could be due to factors such as poor physical health, lifestyle habits, or stress.
 
 ### Contributors
 To contribute to this project, you can fix the repository and submit a pull request.
