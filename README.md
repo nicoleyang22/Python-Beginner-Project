@@ -1,7 +1,7 @@
 # The relationship between Sleeping and Occupations
 This is a simple Python project about "Sleeping &amp; Occupations".
 
-![Sleeping Occupations](Sleeping_Occupations.JPG "Sleeping Occupations")
+![](Sleeping_Occupations.JPG)
 
 ### Table of Contents
 1. [Project Description](#project-description)
