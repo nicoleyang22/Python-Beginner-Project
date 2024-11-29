@@ -1,5 +1,4 @@
 # The relationship between Sleeping and Occupations
-This is a simple Python project about "Sleeping &amp; Occupations".
 
 ### Table of Contents
 1. [Project Description](#project-description)
